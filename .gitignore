@@ -1,0 +1,13 @@
+# ROS2 colcon
+build/
+install/
+log/
+
+# python venv
+.venv*/
+__pycache__/
+*.pyc
+
+# 大采集数据（默认忽略）
+bags/
+datasets/
